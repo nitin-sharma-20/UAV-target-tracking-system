@@ -21,6 +21,9 @@ This project is divided into two distinct environments:
    * Preprocesses frames using pure OpenCV and NumPy.
    * Runs inference, applies Non-Maximum Suppression (NMS), and outputs annotated tracking coordinates in real-time.
 
+<img width="800" height="496" alt="demo" src="https://github.com/user-attachments/assets/37ad6f0f-45df-41c1-b333-8aa47617c51a" />
+
+
 ## 📦 Prerequisites
 You do not need a GPU or PyTorch to run the simulation. You only need:
 * Python 3.8+
